@@ -12,7 +12,7 @@ This project aims to detect AI-generated text using various methods and librarie
 - [AI-Generated Text Detection](#ai-generated-text-detection)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
@@ -65,9 +65,5 @@ The results of the classification are saved in a new column and can be exported 
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
-```
 
-Feel free to customize it according to your specific needs.
