@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Run the Google Colab notebook to execute the code:
 
 ```bash
-jupyter notebook
+Google Colab notebook
 ```
 
 ## Dataset
